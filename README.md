@@ -1,7 +1,7 @@
 # update-ddns
 Command line tool to update a dynamic DNS entry to your current public IP over a web API.
 
-Currently configured for entries by the german DynDNS hoster [spdyn.de] (by Securepoint).
+Configured for entries by the german provider [Securepoint](http://spdyn.de/).
 
 ### Usage:
 ```
