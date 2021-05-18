@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Update-DDNS">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/artifacts/Update_DDNS_jar/Update-DDNS.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
